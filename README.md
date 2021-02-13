@@ -1,3 +1,3 @@
-# The-Worst-C-Hello-World
+# The-Worst-Cpp-Hello-World
 
 idk why i made this.
